@@ -7,7 +7,7 @@
 :uri-org: https://gitlab.com/antora
 :uri-group: {uri-org}/demo
 :uri-site-readme: {uri-group}/demo-site/blob/master/README.adoc
-:uri-opendevise: https://opendevise.com
+:uri-opendevise:
 
 Component A is an example of a documentation component.
 It is used by the Antora Demo site.
